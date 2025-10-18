@@ -13,7 +13,4 @@ const reviewSchema= new mongoose.Schema({
 })
 
 
- reviewSchema.post("save",async function() {
-   
-    
- })
+ 
